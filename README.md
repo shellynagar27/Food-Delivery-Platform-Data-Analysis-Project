@@ -1,4 +1,4 @@
-# Food Delivery Platform Data Analysis Project
+# Sales and Customer Analysis- Food Delivery Platform
 This project is a replication of a tutorial from [The Developer Zomato Dashboard YouTube playlist](https://www.youtube.com/playlist?list=PLVOfSd1Syc0F1znuGJJb1lmQm7ff3BLxh).
 
 ## Problem Statement:
